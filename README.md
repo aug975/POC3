@@ -1,7 +1,9 @@
 # POC 3: Media Queries
 ### Um código que demonstra propriedades principais de media queries em CSS.
 Print - apenas impressão
+
 Larguras de dispositivos diferentes (smartphone, tablet e desktop)
+
 Disposição dos dispositivos (landscape e portrait)
 
 ## Descrição
